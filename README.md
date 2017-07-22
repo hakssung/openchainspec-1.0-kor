@@ -1,4 +1,5 @@
-This was deprecated. You can go to the new repository for this content : https://github.com/hakssung/openchainspec-1.0-kr
+- This was deprecated. You can go to the new repository for this content : https://github.com/hakssung/openchainspec-1.0-kr
+
 ===
 
 ## Korean Translation for Openchain Conformance Specification Version 1.0
